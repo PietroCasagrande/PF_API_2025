@@ -1,0 +1,15 @@
+init 100 100
+change_cost 10 20 -10 5
+change_cost 30 95 10 1
+travel_cost 0 0 20 0
+travel_cost 30 95 30 97
+travel_cost 10 20 11 20
+toggle_air_route 0 0 20 0
+travel_cost 0 0 20 0
+toggle_air_route 10 20 10 22
+travel_cost 10 20 10 22
+toggle_air_route 0 0 20 0
+travel_cost 0 0 20 0
+change_cost 200 20 -10 5
+toggle_air_route 200 20 -10 5
+travel_cost 200 20 11 20
